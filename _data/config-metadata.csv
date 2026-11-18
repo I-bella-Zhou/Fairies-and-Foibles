@@ -2,15 +2,17 @@ field,display_name,browse_link,external_link
 title,Title,
 country of origin,Country of Origin,
 creator,Creator,
-date,Date Created,
-description,Description,
+date of publication,Date of Publication,
+country of publication, Country of Publication,
+author,Author,
+illustrator,Illustrator,
+translator,Translator,
+language, Language,
+format,Format,
+type,Type,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
+notes,Notes
 rights,Rights,
 rightsstatement,Rights Statement,,true
