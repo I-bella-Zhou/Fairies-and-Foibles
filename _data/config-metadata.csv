@@ -1,7 +1,8 @@
 field,display_name,browse_link,external_link
 title,Title,
 country of origin,Country of Origin,
-creator,Creator,
+source,Source
+identifier,Source Identifier,,
 date of publication,Date of Publication,
 country of publication, Country of Publication,
 author,Author,
@@ -11,8 +12,4 @@ language, Language,
 format,Format,
 type,Type,
 subject,Subjects,true
-source,Source
-identifier,Source Identifier,,
 notes,Notes
-rights,Rights,
-rightsstatement,Rights Statement,,true
