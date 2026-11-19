@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
 title,Title,
-country of origin,Country of Origin,
-source,Source
+country of origin,Country of Origin,true
+source,Source,true
 identifier,Source Identifier,,
 date,Date of Publication,
-country of publication, Country of Publication,
-author,Author,
-illustrator,Illustrator,
-translator,Translator,
+country of publication, Country of Publication,true
+author,Author,true
+illustrator,Illustrator,true
+translator,Translator,true
 language, Language,
 format,Format,
 type,Type,
