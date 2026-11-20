@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
-title,Title
+title,Title,
 country of origin,Country of Origin,true
-source,Source,true
-identifier,Source Identifier
-date,Date of Publication
+source,Source,true,
+identifier,Source Identifier,
+date,Date of Publication,
 country of publication, Country of Publication,true
-author,Author,true
-illustrator,Illustrator,true
+author,Author,true,
+illustrator,Illustrator,true,
 translator,Translator,true
-language, Language
-format,Format
-type,Type
-subject,Subjects,true
-notes,Notes
+language, Language,
+format,Format,
+type,Type,
+subject,Subjects,true,
+notes,Notes,
