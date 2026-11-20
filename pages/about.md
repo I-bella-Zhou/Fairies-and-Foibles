@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/featured_goosegirl.jpg" %}
+{% include feature/jumbotron.html objectid="/assets/img/featured_maiden_potion.jpg" %}
 
 {% include feature/nav-menu.html sections="About Faebles" %}
 
