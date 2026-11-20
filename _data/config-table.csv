@@ -3,5 +3,11 @@ title,Title
 country of origin,Country of Origin
 source,Source
 date,Date of Publication
+author,Author
+illustrator,Illustrator
+translator,Translator
 country of publication,Country of Publication
 subject,Subjects
+format,Format
+type,Type
+identifier,Identifier
